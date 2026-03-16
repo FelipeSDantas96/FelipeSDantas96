@@ -1,5 +1,5 @@
 # 👋 Olá, meu nome é Felipe Dantas!
-**👨‍🎓 Estudante de Desenvolvimento de Sistemas | Focado em Python, HTML, CSS e SQL |**
+- **👨‍🎓 Estudante de Desenvolvimento de Sistemas | Focado em Python, HTML, CSS e SQL |**
 - 💻 Preparando-se para o mercado de tecnologia
 
 ## 📫 Como me encontrar
