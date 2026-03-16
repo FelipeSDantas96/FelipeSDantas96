@@ -2,9 +2,9 @@
 - 👨‍🎓 Estudante de Desenvolvimento de Sistemas
 - 🥷 Focado em Python, HTML, CSS, VBA e SQL
 - 💻 Preparando-se para o mercado de tecnologia
-- 📫 Contato: felipe.sdantas@hotmail.com
 
-- Como me encontrar
+## 📫 Como me encontrar
+- ✉️ felipe.sdantas@hotmail.com
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-sdantas/) 
 
 
