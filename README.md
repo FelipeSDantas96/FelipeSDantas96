@@ -4,7 +4,7 @@
 - 💻 Preparando-se para o mercado de tecnologia
 
 ## 📫 Como me encontrar
-- ✉️ felipe.sdantas@hotmail.com
+- ✉️ email: felipe.sdantas@hotmail.com
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-sdantas/) 
 
 
