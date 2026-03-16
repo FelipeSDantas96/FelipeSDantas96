@@ -26,7 +26,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visua
           
 </div> 
 
-<p><br>💫 Nós não somos produtos das nossas circunstâncias. Somos produtos das nossas decisões. 💫 <\p>
+<p><br>💫 Nós não somos produtos das nossas circunstâncias. Somos produtos das nossas decisões. 💫 </p>
 
 
 <!--
