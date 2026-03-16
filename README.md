@@ -1,13 +1,12 @@
 # 👋 Olá, meu nome é Felipe Dantas!
-- 👨‍🎓 Estudante de Desenvolvimento de Sistemas
-- 🥷 Focado em Python, HTML, CSS, VBA e SQL
+**👨‍🎓 Estudante de Desenvolvimento de Sistemas | Focado em Python, HTML, CSS e SQL |**
 - 💻 Preparando-se para o mercado de tecnologia
 
 ## 📫 Como me encontrar
 - email: felipe.sdantas@hotmail.com
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-sdantas/)
 
-## Tecnologias que estudo
+## 🛠️ Tecnologias que estudo
 <div style="display: inline_block"><br>
  <img align="center" alt="Python" height="40" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -26,6 +25,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visua
           
 </div> 
 
+💫 Nós não somos produtos das nossas circunstâncias. Somos produtos das nossas decisões. 💫
 
 <!--
 **FelipeSDantas96/FelipeSDantas96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
