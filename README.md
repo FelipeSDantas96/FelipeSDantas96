@@ -1,4 +1,9 @@
-## Hi there 👋
+# Olá, meu nome é Felipe Dantas!
+-  Estudante de Desenvolvimento de Sistemas
+-  Focado em Python, HTML, CSS e SQL
+-  Preparando-se para o mercado de tecnologia
+- 📫 Contato: felipe.sdantas@hotmail.com
+
 
 <!--
 **FelipeSDantas96/FelipeSDantas96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
