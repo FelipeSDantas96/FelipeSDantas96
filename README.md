@@ -1,8 +1,11 @@
 # 👋 Olá, meu nome é Felipe Dantas!
 - 👨‍🎓 Estudante de Desenvolvimento de Sistemas
-- 🥷 Focado em Python, HTML, CSS e SQL
+- 🥷 Focado em Python, HTML, CSS, VBA e SQL
 - 💻 Preparando-se para o mercado de tecnologia
 - 📫 Contato: felipe.sdantas@hotmail.com
+
+- Como me encontrar
+- [![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/in/felipe-sdantas/)) 
 
 
 <!--
